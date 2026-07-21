@@ -57,26 +57,30 @@ Plus a **token-powered API platform** to integrate Pixmind into your own apps an
 
 ### Supported Models
 
-<table>
-<tr>
-<td width="50%" valign="top"><b>🖼️ Image</b><br/><br/>
+**🖼️ Image**
 
-GPT Image 2 &bull; Seedream 5.0 Pro<br/>
-Grok Imagine 1.5 &bull; Nano Banana Pro<br/>
-Imagen 4 &bull; Gemini 3 Pro<br/>
-Midjourney V7 &bull; Flux Kontext Pro<br/>
-Recraft V4 &bull; Qwen Image
+| Model | Provider | Highlights |
+|-------|----------|-----------|
+| Nano Banana Pro | Google | Text rendering, references, image editing |
+| GPT Image 2 | OpenAI | Versatile generation + in-image text |
+| Seedream 5.0 Pro | ByteDance | Photoreal, high resolution |
+| Grok Imagine 1.5 | xAI | Cinematic visuals |
+| FLUX.1 Kontext Pro | Black Forest Labs | Context-aware editing, character consistency |
+| Qwen Image 2.0 | Alibaba | Text rendering, high resolution |
+| Recraft V4 | Recraft | Vector + raster design |
+| Midjourney V7 | Midjourney | Artistic, top-tier aesthetics |
 
-</td>
-<td width="50%" valign="top"><b>🎬 Video</b><br/><br/>
+**🎬 Video**
 
-Veo 3.1 &bull; Sora<br/>
-Seedance &bull; Kling<br/>
-Wan 2.7 &bull; PixVerse
-
-</td>
-</tr>
-</table>
+| Model | Provider | Highlights |
+|-------|----------|-----------|
+| Veo 3.1 | Google | Native audio, first/last frame |
+| Seedance 2.0 Pro | ByteDance | Fast, references, audio |
+| Kling V3 | Kuaishou | Motion control |
+| Wan 2.7 Video | Alibaba | First/last frame, references |
+| Sora 2 Pro | OpenAI | High resolution, audio |
+| PixVerse V5 | PixVerse | First/last frame, audio |
+| Happy Horse 1.0 | MiniMax | Motion control, references |
 
 ## Open Source Resources
 
